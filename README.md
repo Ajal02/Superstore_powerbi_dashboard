@@ -1,1 +1,36 @@
-# Superstore_powerbi_dashboard
+# 📊 Superstore Powerbi Dashboard - Power BI Dashboard
+
+This repository contains a Power BI dashboard project that analyzes the performance of a retail superstore. The dataset includes information on orders, products, customers, shipping, and sales across various regions and categories.
+
+## 🔍 Overview
+
+The goal of this project is to provide a clear and interactive visual summary of Superstore’s business performance using Power BI. The dashboard includes KPIs, trends, and insights across different segments, regions, and timeframes.
+
+## 📈 Key Features
+
+- 🗓 *Sales Trend Over Time* (Line Chart)
+- 🛍 *Sales & Profit by Category* (Clustered Bar Chart)
+- 📦 *Profit by Sub-Category* (Treemap)
+- 🌍 *Regional & Sales* (Filled Map)
+- 👥 *Segment by Sales* (Donut Chart)
+- 🚚 *Sales by Product Name* (Pie Chart)
+- 📌 *KPIs*: Total Sales, Total Profit (Cards)
+
+
+## 🛠 Technologies Used
+
+- [Power BI Desktop](https://powerbi.microsoft.com/)
+- Microsoft Excel (CSV Dataset)
+- Git & GitHub
+
+## 📁 Project Files
+
+- `superstore_powerbi_dashboard.pdf` – Power BI dashboard Pdf file
+- `Superstore.csv` – Dataset used
+- `README.md` – Project documentation (this file)
+
+## 🚀 How to Use
+
+1. Clone this repository:
+   ```bash
+   https://github.com/Ajal02/Superstore_powerbi_dashboard/tree/main
